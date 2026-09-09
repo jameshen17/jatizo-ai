@@ -1,27 +1,25 @@
 # JATIZO AI Website Brief
 
-Status: Initial working brief
+Status: Approved temporary-site direction
 
 ## Purpose
 
-`jatizo.ai` is a lightweight brand site for an early JATIZO Fashion AI initiative. It explains a direction and opens appropriate conversations. It does not present a launched product, commerce experience, software dashboard, or finalized capability set.
+`jatizo.ai` is a concise preview of an early JATIZO Fashion AI direction. It communicates what the company is exploring without presenting a launched product, commercial offering, software dashboard, or finalized capability set.
 
 ## Audience
 
-- Fashion operators and product, sourcing, and production teams close to real workflows.
-- Technologists and potential collaborators working on practical applications of AI in fashion.
-- People with relevant experience who can help refine the opportunity through grounded conversation.
+- Fashion manufacturers evaluating how AI and industry data may improve customer discovery.
+- Fashion operators, technologists, and potential collaborators interested in the direction.
 
 ## Core message
 
-JATIZO is exploring how AI can help fashion teams turn fragmented information into clearer, better-informed decisions. The initiative is still being defined, and usefulness must be demonstrated before claims become specific.
+JATIZO is building toward AI-native tools that may help fashion manufacturers understand their capabilities, discover better-fit brands, and develop useful buyer context. The initiative is in development.
 
 ## Information architecture
 
-1. Directional hero: what JATIZO is exploring and the current stage.
-2. The direction: the problem space, without implying a finished product.
-3. Working principles: real workflows, human judgment, and earned usefulness.
-4. Open conversation: invite relevant perspectives without promising access or launch timing.
+1. Full-screen directional hero and early-stage status.
+2. One minimal company note below the hero; detailed product-direction content is intentionally deferred.
+3. Utility-only privacy route.
 
 ## Claim boundaries
 
@@ -31,4 +29,4 @@ JATIZO is exploring how AI can help fashion teams turn fragmented information in
 
 ## Visual direction
 
-Extend JATIZO's dark, editorial fashion language with a more analytical rhythm: large serif statements, restrained signal-pink accents, precise rules, and one established fashion image used as material context rather than product proof.
+Blend a research-lab restraint with editorial typography and a precise technical rhythm: warm ivory surfaces, charcoal-violet text, violet, aqua, and peach accents, a serif/monospace Jatizo (AI) wordmark, fine grid lines, and square status framing. Avoid fashion imagery, decorative animation, AI clichés, and dashboard mockups.

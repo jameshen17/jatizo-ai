@@ -1,17 +1,18 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { SiteAnalytics } from "./site-analytics";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://jatizo.ai"),
-  title: "JATIZO AI | Fashion, intelligence, and better decisions",
+  title: "JATIZO AI | Intelligence for fashion's next era",
   description:
-    "JATIZO is exploring practical ways for AI to help fashion teams move from information to clearer decisions.",
+    "Jatizo is exploring AI-native tools that help fashion manufacturers discover better-fit brands and business opportunities.",
   alternates: {
     canonical: "/"
   },
   openGraph: {
-    title: "JATIZO AI",
-    description: "Exploring practical AI for the work behind fashion.",
+    title: "JATIZO AI | Intelligence for fashion's next era",
+    description: "Exploring AI-native tools for the next generation of fashion business.",
     url: "https://jatizo.ai",
     siteName: "JATIZO AI",
     type: "website"
@@ -21,7 +22,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <SiteAnalytics />
+      </body>
     </html>
   );
 }

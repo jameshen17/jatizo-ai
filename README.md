@@ -4,7 +4,7 @@ Independent source repository for the lightweight `jatizo.ai` brand site.
 
 ## Scope
 
-The site presents JATIZO's early direction for practical AI in fashion and invites relevant conversations. It is not a product application, ecommerce store, dashboard, or statement of finalized capabilities.
+The site previews JATIZO's exploration of AI-native tools for fashion manufacturers, with a focus on capability intelligence, better-fit brand discovery, and buyer context. It is not a product application, ecommerce store, dashboard, lead-generation site, or statement of finalized capabilities.
 
 The implementation brief and public claim boundaries are in `docs/site-brief.md`. Cross-project strategy and final decisions remain in the parent JatizoFashion workspace's root `docs/` directory.
 
@@ -30,8 +30,8 @@ Planned baseline, following the existing JATIZO setup without sharing its resour
 - Vercel project: `jatizo-ai`
 - Framework: Next.js with automatic Git deployments
 - Root directory: repository root
-- Custom domain: `jatizo.ai`, to be connected only after the independent project is verified
+- Custom domain: `jatizo.ai`, connected independently through Cloudflare DNS
 
 Target production domain: `jatizo.ai`
 
-Current analytics status: not configured pending a separate decision.
+Current analytics status: disabled. The codebase contains only a no-op integration boundary for a future, separately approved provider.
